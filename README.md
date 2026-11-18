@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="520" alt="Logo de Copyright Free C" src="https://github.com/user-attachments/assets/61d49221-1778-4667-912b-cf66dd76d19b" />
+</p>
+
 # Copyright Free C
 
 Compilador distribuido para un lenguaje de programación en español que controla hardware. El programa se escribe en una página web y pasa por tres placas que lo traducen y lo ejecutan en LEDs, un botón, un sensor de temperatura y humedad, una pantalla LCD y una bocina.
